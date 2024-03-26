@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\DOWNLOAD\OneDrive\Desktop\Food delivery\food\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3847198532.index
+380451634.index
+2817603591.index
+1038526189.index
+482140128.index
+1681911995.index
+3691650346.index
+3772592355.index
